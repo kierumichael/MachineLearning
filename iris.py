@@ -32,5 +32,4 @@ array([‘versicolor’],
 #Data Validatin is done using a technique known as train-split-test.
 #And sure enough, scikit-learn provides a way of doing this:
 from sklearn.cross_validation import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y,
-➥test_size=0.4)
+X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.4)
