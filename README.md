@@ -13,6 +13,9 @@ Now that we have setup the  environment and tested the module with the iris data
 we would like to create a new dataset that will be used to test the module against.
 This dataset should have similar attributes to the iris dataset but be a set defining words ,and how to tell the meaning implied from the algorithm of choice.
 the task is to:
+
 1.Accomodate dynamicity in the set to create a list of words [we will start with 150 words as is in the iris set.]
+
 2.Teach the model to identify obscene words from four distinct features.[similar to the iris features. i.e. petal length,petal width,sepal length sepal width to correspond to the four features to be researched further but eg. two real variables(string and string length) and two implied variables(sexual nature and sexual usage).The fifth variable will be closely tied to the four and a variable age]
-3.
+
+3.test the system against sample data through a split of the dataset. train the program to identify obscene words according to the rules set. vary age to filter out data accordingly.
