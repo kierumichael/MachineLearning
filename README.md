@@ -16,6 +16,6 @@ the task is to:
 
 1.Accomodate dynamicity in the set to create a list of words [we will start with 150 words as is in the iris set.]
 
-2.Teach the model to identify obscene words from four distinct features.[similar to the iris features. i.e. petal length,petal width,sepal length sepal width to correspond to the four features to be researched further but eg. two real variables(string and string length) and two implied variables(sexual nature and sexual usage).The fifth variable will be closely tied to the four and a variable age]
+2.Teach the model to identify obscene words from four distinct features.[similar to the iris features. i.e. petal length,petal width,sepal length sepal width to correspond to the four features to be researched further but eg. two real variables(string and string length) and two implied variables(sexual nature and sexual context).The fifth variable will be closely tied to the four and a variable age]
 
 3.test the system against sample data through a split of the dataset. train the program to identify obscene words according to the rules set. vary age to filter out data accordingly.
