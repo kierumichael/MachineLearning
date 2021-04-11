@@ -7,6 +7,7 @@ Created on Fri Mar  5 11:32:43 2021
 
 #Import important libraries
 print('Importing important libraries')
+print("Done importing libraries!\n############################\n")
 
 import numpy as np
 import pandas as pd
@@ -84,8 +85,8 @@ print(knn.predict([[10,10,10,10]]))
 
 testing=input("Enter a word:")
 tlength=len(testing)
-context=(1)
-nature=(1)
+context=(10)
+nature=(10)
 age=(1)
 
 print(knn.predict([[tlength,context,nature,age]]))
@@ -131,4 +132,3 @@ knn.fit(X, y)
 print('make a prediction for an example of an out-of-sample observation\n')
 knn.predict([[4.9,3,5.1,0.2]])
 '''
-
