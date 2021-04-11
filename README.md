@@ -30,3 +30,6 @@ we are building tools and models to make online content, social media and gaming
 -ML applications to advise and caution children about age-inappropriate content
 
 The need for a safe environment for our children to grow.
+
+
+added words.csv and word.py to show actual tests in the system
