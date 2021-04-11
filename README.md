@@ -32,4 +32,4 @@ we are building tools and models to make online content, social media and gaming
 The need for a safe environment for our children to grow.
 
 
-added words.csv and word.py to show actual tests in the system
+added words.csv and words.py to show actual tests in the system
