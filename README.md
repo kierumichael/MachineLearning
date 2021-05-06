@@ -6,7 +6,6 @@ Liquid Crystal Displays are the new windows to the souls. The driving force of i
 Thus we have decided to come up with a way to restore sanity on our online platforms.
 We do this by coming up with a project that aims at securing the parts of the internet accessible and filtering out the gruesome and somewhat risky content.
 Machine learning ,especially python's functional programming using numpy ,scikit-learn  e.t.c will be instrumental in developing the finished product aimed at child safety online.
-
 changelog
 -------------
 Now that we have setup the  environment and tested the module with the iris dataset
@@ -33,3 +32,8 @@ The need for a safe environment for our children to grow.
 
 
 added words.csv and words.py to show actual tests in the system
+
+
+Added another file namely saferscreens-python-steps.mht which is a MHTML Document (.mht) . Just download and open in a browser of your choice.
+MHTML, an initialism of "MIME encapsulation of aggregate HTML documents", is a web page archive format used to combine, in a single computer file, the HTML code and its companion resources (such as images, Flash animations, Java applets, and audio and video files) that are represented by external hyperlinks in the web page's HTML code. 
+
